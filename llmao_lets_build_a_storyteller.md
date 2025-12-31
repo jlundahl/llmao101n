@@ -1,4 +1,4 @@
-# LLM101n: Let's Build a Storyteller
+# LLMAO101n: Let's Build a Storyteller
 
 You're about to do something remarkable. Not download a language model. Not fine-tune someone else's work. Not call an API and hope for the best. You're going to *build* one. From the ground up. Starting from nothing but Python, C, CUDA, and your own curiosity.
 
