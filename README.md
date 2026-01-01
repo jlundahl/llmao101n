@@ -108,4 +108,6 @@ Note that while this generated content is freely available, it's derived from An
 
 ---
 
-*Built with curiosity and a Mac Mini.*
+*Built with curiosity and a Mac Mini.* 
+
+Nampara AI, December 2025
